@@ -4,6 +4,6 @@ An extremely simple and basic blockchain developed with js and crypto-js to mana
 
 ## Just do it!
 
-Just run main.js to test it
+Run main.js to test it
 
     > node main.js
